@@ -34,26 +34,6 @@
 
 To get started with the BetterJFrame library, ensure you have Java Development Kit (JDK) installed. This library is compatible with JDK 8 and above.
 
-## Installation
-
-You can include the BetterJFrame library in your project by downloading the latest release from the [GitHub repository](link-to-repo) or by adding it as a dependency in your build tool (e.g., Maven, Gradle).
-
-### Maven
-
-```xml
-<dependency>
-    <groupId>me.kammoun</groupId>
-    <artifactId>BetterJFrame</artifactId>
-    <version>1.0.0</version>
-</dependency>
-```
-
-### Gradle
-
-```groovy
-implementation 'me.kammoun:BetterJFrame:1.0.0'
-```
-
 ## Usage
 
 ### Core Components
